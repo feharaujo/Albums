@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccentureTest</string>
+    <string name="error_loading">Error loading data. Tap to try again.</string>
+</resources>
